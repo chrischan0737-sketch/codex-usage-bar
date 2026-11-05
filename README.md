@@ -23,7 +23,7 @@ This is an independent utility, unaffiliated with OpenAI. The app interface is c
 ## Compatibility
 
 > [!IMPORTANT]
-> **macOS 27 or later is recommended.** On earlier versions, a crowded menu bar may prevent the status item from appearing or its menu from opening. This is a usage recommendation; the current build declares macOS 13.0 as its minimum, which does not guarantee the same menu bar experience on every version.
+> **macOS 27 or later is recommended.** On earlier versions, a crowded menu bar may prevent the status item from appearing or its menu from opening.
 
 | Requirement | Details |
 | --- | --- |
