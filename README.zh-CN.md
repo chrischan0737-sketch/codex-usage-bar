@@ -1,4 +1,4 @@
-# Codex 额度栏
+# Codex Usage Bar / Codex 额度栏
 
 [English](README.md) · 简体中文
 
