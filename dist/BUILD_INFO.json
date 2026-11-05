@@ -1,0 +1,37 @@
+{
+  "application": "Codex 额度栏",
+  "version": "1.0.0",
+  "bundle_identifier": "local.codex.usagebar",
+  "architecture": "arm64",
+  "deployment_target": "macOS 13.0",
+  "compiler": "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)",
+  "signing": "ad-hoc; no developer identity; not notarized",
+  "archive": "codex-usage-bar-1.0.0-macos-arm64.zip",
+  "archive_size_bytes": 18299,
+  "archive_sha256": "3fdcd9314733219995f1758db88e70bce78f7887b7bd013327bb2fda2bf5509b",
+  "source_sha256": {
+    "src/main.swift": "ad34c2015e119c096e97dda18f31ce5c222dbfcb473011e2848a165251a90d34",
+    "src/usage.py": "3ae13eb7c2399247fa5627134dd8fda5e0268950eb05a779731a8e0d8b0a3d96",
+    "resources/Info.plist": "384e8c9d729150eb48a900da2e9d8404d8d3c10089766c65e0ae174110d17ccb",
+    "scripts/build.sh": "87fbc0d087ff8203f89b9b425f09caabb9642e73a29c115aedf2055dc2b151c4",
+    "scripts/package.py": "a21584b647b8510e599c0e19f10e81e615754bc40d8957e30206a8c8ff51a895"
+  },
+  "app_files": {
+    "Contents/Info.plist": {
+      "size_bytes": 743,
+      "sha256": "384e8c9d729150eb48a900da2e9d8404d8d3c10089766c65e0ae174110d17ccb"
+    },
+    "Contents/MacOS/UsageBar": {
+      "size_bytes": 84064,
+      "sha256": "36159b3da87ddb0238ebc5d18ed81447cf80a5691aa0a9ca955d4c5b58c0a35d"
+    },
+    "Contents/Resources/usage.py": {
+      "size_bytes": 3006,
+      "sha256": "3ae13eb7c2399247fa5627134dd8fda5e0268950eb05a779731a8e0d8b0a3d96"
+    },
+    "Contents/_CodeSignature/CodeResources": {
+      "size_bytes": 2438,
+      "sha256": "73b0f79c2bb7bdc2f36f4e87819f2e52d23de47dc15b8c0aca644c9c91a87255"
+    }
+  }
+}

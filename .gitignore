@@ -1,0 +1,21 @@
+# Only the reviewed project and distribution files may be tracked.
+/*
+!/.gitignore
+!/README.md
+!/PRIVACY.md
+!/src/
+/src/*
+!/src/main.swift
+!/src/usage.py
+!/resources/
+/resources/*
+!/resources/Info.plist
+!/scripts/
+/scripts/*
+!/scripts/build.sh
+!/scripts/package.py
+!/dist/
+/dist/*
+!/dist/codex-usage-bar-1.0.0-macos-arm64.zip
+!/dist/BUILD_INFO.json
+!/dist/SHA256SUMS
